@@ -12,13 +12,13 @@
    ∙ Dicas de cursos e canais do youtube 
 - ❓ Me pergunte sobre:<br/>
    ∙ Minha jornada acadêmica em Ti até agora<br/>
-   ∙ Minha paixão com animais<br/>
-   ∙ Como consilio estudos, projetos voluntários e sports 🏋️ 
+   ∙ Minha paixão por animais<br/>
+   ∙ Como concilio estudos, projetos voluntários e sports 🏋️ 
+- ⚡ Engraçado:<br/>
+   ∙ De commit em commit eu vou chegar lá 💪🏼
 - 📫 Como me encontrar:<br/>
     [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giulia-maria-2bb60a232)
   [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?hl=pt-BR#inbox) 
-- ⚡ Engraçado:<br/>
-   ∙ De commit em commit eu vou chegar lá 💪🏼
 
 ![Giulia GitHub stats](https://github-readme-stats.vercel.app/api?username=giuliasousa&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giuliasousa&hide_progress=true)
