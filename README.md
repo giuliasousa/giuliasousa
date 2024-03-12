@@ -2,18 +2,10 @@
 
 - 🔭 Atualmente trabalhando em:<br/>
    ∙ Afiar minhas habilidades em Java, Python, C++, HTML, CSS e JS, sempre em busca de novos desafios.<br/>
-   ∙ Conquistando o universo da programação, resolvendo bugs e comemorando cada vitória.
-- 🌱 Aprendendo agora:<br/>
-   ∙ Projetos open-source que causam impacto positivo.<br/>
-   ∙ Estruturar dados em c++
 - 🤔 Preciso de ajuda com:<br/>
    ∙ Encontrar soluções criativas para aqueles problemas de código que fazem a cabeça doer.<br/>
    ∙ Dicas e insights de mestres da programação para aprimorar minhas habilidades.<br/>
    ∙ Dicas de cursos e canais do youtube 
-- ❓ Me pergunte sobre:<br/>
-   ∙ Minha jornada acadêmica em Ti até agora<br/>
-   ∙ Minha paixão por animais<br/>
-   ∙ Como concilio estudos, projetos voluntários e sports 🏋️ 
 - ⚡ Engraçado:<br/>
    ∙ De commit em commit eu vou chegar lá 💪🏼
 - 📫 Como me encontrar:<br/>
