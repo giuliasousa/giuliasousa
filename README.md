@@ -9,7 +9,7 @@
 - ⚡ Engraçado:<br/>
    ∙ De commit em commit eu vou chegar lá 💪🏼
 - 📫 Como me encontrar:<br/>
-    [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giulia-maria-2bb60a232)
+    [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giulia-sousa-2bb60a232/)
   
 ![Giulia GitHub stats](https://github-readme-stats.vercel.app/api?username=giuliasousa&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giuliasousa&hide_progress=true)
