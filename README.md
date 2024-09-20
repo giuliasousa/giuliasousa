@@ -1,7 +1,7 @@
 ### Oiii! Eu sou a Giulia Sousa 👋🏼
 
 - 🔭 Atualmente trabalhando em:<br/>
-   ∙ Afiar minhas habilidades em Java, Pytho e C++ e também conhecer o mundo do front com HTML, CSS e JS, sempre em busca de novos desafios.<br/>
+   ∙ Afiar minhas habilidades em Java, Python e C++ e também conhecer o mundo do front com HTML, CSS e JS, sempre em busca de novos desafios.<br/>
 - 🤔 Preciso de ajuda com:<br/>
    ∙ Encontrar soluções criativas para aqueles problemas de código que fazem a cabeça doer.<br/>
    ∙ Dicas e insights de mestres da programação para aprimorar minhas habilidades.<br/>
