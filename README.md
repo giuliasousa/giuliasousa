@@ -2,7 +2,7 @@
 
 **`Desenvolvedora Front-End`**
 
-Me chamo Giulia Maria Sousa, tenho 20 anos e sou de Itapecerica da Serra - SP. Curso Análise e Desenvolvimento de Sistemas na UNASP e sou apaixonada por tecnologia. Atualmente sou Dev Júnior no Santander Brasil. 
+Tenho 20 anos, sou apaixonada por tecnologia e animais e moro em Itapecerica da Serra - SP. Curso Análise e Desenvolvimento de Sistemas na UNASP. Atualmente sou Dev Júnior no Santander Brasil. 
 
 ---
 
